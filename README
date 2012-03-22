@@ -1,0 +1,7 @@
+Run this from anywhere:
+
+curl https://raw.github.com/jaymedavis/dev-env/master/install.sh | sh
+
+This script will
+1) clone this repo into your Sublime packages folder
+2) delete Preferences.sublime-settings from User and symlink the one in the repo
